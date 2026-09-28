@@ -150,7 +150,7 @@ Changes made in **Config**, and the size choice on Home, are remembered automati
 
 ## Updates
 
-ImageConverter does **not** update itself. At startup it checks for a new version and shows a notice; clicking **Yes** opens the download page and closes the program. New versions are released manually after internal verification and announced on the [ImageConverter page](https://v2.kilho.net/imageconverter). See the [update policy notice](https://en.kilho.net/archives/notice/2940).
+ImageConverter does **not** update itself. At startup it checks for a new version and shows a notice; clicking **Yes** opens the download page and closes the program. New versions are released manually after internal verification and announced on the [ImageConverter page](https://kilho.net/imageconverter). See the [update policy notice](https://en.kilho.net/archives/notice/2940).
 
 **Version history**
 
@@ -167,7 +167,7 @@ ImageConverter is **freeware**. Use it free of charge and without restriction an
 
 ## Links
 
-- Website: <https://v2.kilho.net/imageconverter>
+- Website: <https://kilho.net/imageconverter>
 - Forum: <https://groups.google.com/g/kilhonet>
 - X (Twitter): <https://www.twitter.com/kilhonet>
 

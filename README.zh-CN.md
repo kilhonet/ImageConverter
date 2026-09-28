@@ -150,7 +150,7 @@ ImageConverter 根据 **文件内容** 而不是文件名判断格式。没有�
 
 ## 更新
 
-ImageConverter **不会** 自动更新。启动时检查是否有新版本并弹出提示窗口,按 **[是]** 会打开下载页面并退出程序。新版本经内部验证后手动发布,并在 [ImageConverter 页面](https://v2.kilho.net/imageconverter)公告。请参阅[更新政策说明](https://en.kilho.net/archives/notice/2940)。
+ImageConverter **不会** 自动更新。启动时检查是否有新版本并弹出提示窗口,按 **[是]** 会打开下载页面并退出程序。新版本经内部验证后手动发布,并在 [ImageConverter 页面](https://kilho.net/imageconverter)公告。请参阅[更新政策说明](https://en.kilho.net/archives/notice/2940)。
 
 **版本历史**
 
@@ -167,7 +167,7 @@ ImageConverter 是 **免费软件**。公司、家庭、政府机关、学校等
 
 ## 链接
 
-- 官网: <https://v2.kilho.net/imageconverter>
+- 官网: <https://kilho.net/imageconverter>
 - 论坛: <https://groups.google.com/g/kilhonet>
 - X (Twitter): <https://www.twitter.com/kilhonet>
 
