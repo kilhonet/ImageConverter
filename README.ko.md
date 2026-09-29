@@ -166,7 +166,7 @@ PDF 를 넣고 변환하면 페이지마다 `문서-001.jpg`, `문서-002.jpg` �
 ## 링크
 
 - 웹사이트: <https://kilho.net/imageconverter>
-- 포럼: <https://groups.google.com/g/kilhonet>
+- 포럼: <https://kilho.top/forum/qna>
 - X (Twitter): <https://www.twitter.com/kilhonet>
 
 © KILHO.NET

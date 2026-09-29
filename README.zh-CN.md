@@ -168,7 +168,7 @@ ImageConverter 是 **免费软件**。公司、家庭、政府机关、学校等
 ## 链接
 
 - 官网: <https://kilho.net/imageconverter>
-- 论坛: <https://groups.google.com/g/kilhonet>
+- 论坛: <https://kilho.top/forum/qna>
 - X (Twitter): <https://www.twitter.com/kilhonet>
 
 © KILHO.NET

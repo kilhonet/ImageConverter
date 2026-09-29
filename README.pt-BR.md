@@ -170,7 +170,7 @@ O ImageConverter é **freeware**. Use gratuitamente e sem restrições em qualqu
 ## Links
 
 - Site: <https://kilho.net/imageconverter>
-- Fórum: <https://groups.google.com/g/kilhonet>
+- Fórum: <https://kilho.top/forum/qna>
 - X (Twitter): <https://www.twitter.com/kilhonet>
 
 © KILHO.NET

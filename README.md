@@ -168,7 +168,7 @@ ImageConverter is **freeware**. Use it free of charge and without restriction an
 ## Links
 
 - Website: <https://kilho.net/imageconverter>
-- Forum: <https://groups.google.com/g/kilhonet>
+- Forum: <https://kilho.top/forum/qna>
 - X (Twitter): <https://www.twitter.com/kilhonet>
 
 © KILHO.NET
