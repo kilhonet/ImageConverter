@@ -47,7 +47,7 @@ Con el instalador, ImageConverter se abre en cuanto termina la instalación y se
 
 ## Uso
 
-### Flujo básico
+### Primeros pasos
 
 1. Inicie ImageConverter. **Home** muestra una lista de archivos vacía.
 2. Arrastre a la lista las imágenes o carpetas que quiere convertir. Solo se añaden los archivos cuyo formato se reconoce; la columna **Type** muestra el formato de origen y **Status** muestra `Ready`.

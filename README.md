@@ -45,7 +45,7 @@ The installer opens ImageConverter as soon as it finishes and registers the Star
 
 ## Usage
 
-### Basic flow
+### Getting started
 
 1. Start ImageConverter. **Home** shows an empty file list.
 2. Drag the image files or folders you want to convert into the list. Only files whose format is recognized are added; the **Type** column shows the source format and **Status** shows `Ready`.
