@@ -152,15 +152,6 @@ Les changements faits dans **Config** et le choix de taille sur l'Accueil sont m
 
 ImageConverter ne se met **pas** à jour tout seul. Au lancement, il vérifie si une nouvelle version existe et affiche un avis ; en cliquant sur **Oui**, la page de téléchargement s'ouvre et le programme se ferme. Les nouvelles versions sont publiées manuellement après vérification interne et annoncées sur la [page ImageConverter](https://kilho.net/imageconverter). Consultez l'[avis sur la politique de mise à jour](https://en.kilho.net/archives/notice/2940).
 
-**Historique des versions**
-
-| Version | Date | Modifications |
-|---|---|---|
-| 2.0.0 | 2026-09-22 | Écran renouvelé, tailles choisies dans une liste ou saisies directement, réglages existants conservés après la mise à jour, conversion par clic droit dans l'Explorateur améliorée |
-| 1.6.3 | 2026-09-03 | Conversion plus rapide depuis le menu du clic droit de Windows 11, installation des mises à jour améliorée, conversion PDF plus nette et grands documents plus stables, meilleure reconnaissance HEIC · AVIF, fichiers vides écartés de la liste dès l'ajout |
-| 1.6.2 | 2026-08-17 | Moteur de conversion PDF amélioré pour une meilleure qualité, fermeture sûre pendant la conversion, protection renforcée des fichiers existants, meilleure prise en charge des noms de fichiers avec caractères spéciaux, liste de fichiers plus rapide |
-| 1.6.1 | 2026-07-16 | Conversion JPG et PDF de plusieurs pages plus fiable, meilleure reconnaissance du HEIC et d'autres formats, menu du clic droit de l'Explorateur et réglages plus pratiques |
-
 ## Licence
 
 ImageConverter est un **freeware**. Utilisez‑le gratuitement et sans restriction partout — au bureau, à la maison, dans les administrations, à l'école — et redistribuez‑le librement.
